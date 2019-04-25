@@ -15,3 +15,7 @@ The static folder has stylesheet(app.css) and images used to display the page.</
 1. If proper path to index.html is not pasted in the browser then the "file cannot be found".
 
 2. If images are not placed in the same "static" folder then just the name of the image will be displayed on the browser.
+
+<h4>The output looks like:</h4>
+
+![Capture](https://user-images.githubusercontent.com/43720203/56742292-0fd4c800-6792-11e9-9077-94e66f2ab935.PNG)
