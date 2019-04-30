@@ -16,6 +16,8 @@ The static folder has stylesheet(app.css) and images used to display the page.</
 
 2. If images are not placed in the same "static" folder then just the name of the image will be displayed on the browser.
 
+Except the background image and pokemon images everything else is built using HTML and CSS.
+
 <h4>The output looks like:</h4>
 
 ![Capture](https://user-images.githubusercontent.com/43720203/56742292-0fd4c800-6792-11e9-9077-94e66f2ab935.PNG)
